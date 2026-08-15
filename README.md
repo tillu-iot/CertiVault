@@ -84,27 +84,27 @@
 
   <div class="card">
     <h3>HTML Certificate</h3>
-    <a class="btn" href="certificates/007-html.pdf" target="_blank">View Certificate</a>
+    <a class="btn" href="007-html.pdf" target="_blank">View Certificate</a>
   </div>
 
   <div class="card">
     <h3>IoT Certificate</h3>
-    <a class="btn" href="certificates/007-iot.pdf" target="_blank">View Certificate</a>
+    <a class="btn" href="007-iot.pdf" target="_blank">View Certificate</a>
   </div>
 
   <div class="card">
     <h3>JavaScript Certificate</h3>
-    <a class="btn" href="certificates/007-javascript.pdf" target="_blank">View Certificate</a>
+    <a class="btn" href="007-javascript.pdf" target="_blank">View Certificate</a>
   </div>
 
   <div class="card">
     <h3>Node-RED Certificate</h3>
-    <a class="btn" href="certificates/007-node red.pdf" target="_blank">View Certificate</a>
+    <a class="btn" href="007-node red.pdf" target="_blank">View Certificate</a>
   </div>
 
   <div class="card">
     <h3>Project Certificate</h3>
-    <a class="btn" href="certificates/007-project.pdf" target="_blank">View Certificate</a>
+    <a class="btn" href="007-project.pdf" target="_blank">View Certificate</a>
   </div>
 </section>
 
